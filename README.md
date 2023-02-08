@@ -3,7 +3,7 @@
 ## Business Problem
 FLO, an online shoe store, wants to segment its customers and determine marketing strategies according to these segments.
 ## Dataset 
-#### 13 Feature 19.945 Observation 2.7MB
+#### 13 | Feature 19.945 | Observation 2.7MB
 | Feature | Definition |
 | --- | --- |
 | master_id | Unique number for each customer |
